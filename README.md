@@ -20,7 +20,7 @@ I explore a dataset of used cars from [eBay-Kleinanzeigen](https://www.ebay-klei
 
 ## Setup
 
-The code was made run in the DataQuest platform using:
+The code was made and run in the DataQuest platform using:
 - Jupyter Notebook
 - [pandas](https://pandas.pydata.org/)
 - [NumPy](https://numpy.org/)
@@ -37,7 +37,7 @@ Descriptions of the variables:   (adapted from [data_world](https://data.world/d
 - `offerType`: the type of listing, if offer or request
 - `price`: the price on the ad to sell the car
 - `abtest`: control or test
-- `vehicleType`:  the vehicle Type
+- `vehicleType`:  the vehicle type
 - `yearOfRegistration`: at which year the car was first registered
 - `gearbox`: the transmission type
 - `powerPS`: the power of the car in PS
