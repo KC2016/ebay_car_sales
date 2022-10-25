@@ -8,9 +8,9 @@ I explore a dataset of used cars from [eBay-Kleinanzeigen](https://www.ebay-klei
 ### What was done?
 
 - Cleaning
-- Removing outliersx
-- Fixed data types
-- Explored price in function of brands and vehicle types
+- Removing outliers
+- Fixing data types
+- Exploring price in function of brands and vehicle types
 
 
 ## Folders
