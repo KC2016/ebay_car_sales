@@ -1,4 +1,4 @@
-# Ebay car sales - WOP
+# Ebay car sales
 ## Cleaning and Analyzing using Python, Pandas and analytics skills.
 
 ![eBay](images/ebay_autos.png)
