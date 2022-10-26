@@ -12,6 +12,10 @@ I explore a dataset of used cars from [eBay-Kleinanzeigen](https://www.ebay-klei
 - Fixing data types
 - Exploring price in function of brands and vehicle types
 
+### Credits
+
+This is a guided project from the [DataQuest](https://www.dataquest.io/blog/free-datasets-for-projects/), from the Path `Probability and Statistics with Python`.
+
 
 ## Folders
 - Data: dataset in `.csv`
